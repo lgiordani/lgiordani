@@ -31,7 +31,7 @@ In 2018 I published the free book "Clean Architectures in Python” that is avai
 <a href="https://www.terraform.io/" target="_blank"><img align="left" alt="Terraform" height ="42px" src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg"></a>
 </p>
 
-<br>
+<br><br>
 
 ### Github Stats
 
