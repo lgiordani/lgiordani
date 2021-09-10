@@ -23,7 +23,7 @@ In 2018 I published the free book "Clean Architectures in Python” that is avai
 
 <p align="center">
 <a href="https://www.kernel.org/" target="_blank"><img align="left" alt="Linux" height ="42px" src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg"></a>
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img align="left" alt="Bash" height ="42px" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></a>
+<a href="https://www.gnu.org/software/bash/" target="_blank"><img align="left" alt="Bash" height ="42px" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg"></a>
 <a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://www.vectorlogo.zone/logos/python/python-icon.svg"></a>
 <a href="https://aws.amazon.com/" target="_blank"><img align="left" alt="AWS" height ="42px" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg"></a>
 <a href="https://www.docker.com/" target="_blank"><img align="left" alt="Docker" height ="42px" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg"></a>
