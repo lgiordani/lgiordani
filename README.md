@@ -21,6 +21,7 @@ In 2018 I published the free book "Clean Architectures in Python” that is avai
 
 ### Languages and Tools:
 
+<p align="center">
 <a href="https://www.kernel.org/" target="_blank"><img align="left" alt="Linux" height ="42px" src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg"></a>
 <a href="https://www.gnu.org/software/bash/" target="_blank"><img align="left" alt="Bash" height ="42px" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></a>
 <a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://www.vectorlogo.zone/logos/python/python-icon.svg"></a>
@@ -28,6 +29,7 @@ In 2018 I published the free book "Clean Architectures in Python” that is avai
 <a href="https://www.docker.com/" target="_blank"><img align="left" alt="Docker" height ="42px" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg"></a>
 <a href="https://www.nginx.com/" target="_blank"><img align="left" alt="NGINX" height ="42px" src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg"></a>
 <a href="https://www.terraform.io/" target="_blank"><img align="left" alt="Terraform" height ="42px" src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg"></a>
+</p>
 
 ### Github Stats
 
